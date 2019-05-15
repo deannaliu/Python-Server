@@ -22,6 +22,7 @@
 (missing/invalid args, etc.)
 - `404 NOT FOUND` - specified key was not found for GET
 
+## Start
 ```python
 PuTTy:
 localhost
